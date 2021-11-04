@@ -26,6 +26,7 @@
 
 * We learned how to create a GitHub page using Markdown.
 * We went over the following:
+
 ```
 git init                     # create local repository
 
@@ -53,11 +54,13 @@ git pull
 ```
 ### HTML
 Titles and paragraphs:
+
 ```
 <h1>Hello world</h1>                                   #big title (there are h1... h6)
 <p>text</p>                                            #for each new paragraph
 ```
 Lists:
+
 ```
 <ul>                                                   #unordered list with bullets
 	<li>one</li>
@@ -71,6 +74,7 @@ Lists:
 ```
 
 Table:
+
 ```
 <table>                                                #table
 	<tr><th>Name</th><th>Phone></th></tr>
@@ -79,6 +83,7 @@ Table:
 </table>
 ```
 Links:
+
 ```
 <a href="https://...">Name to be linked</a>
 ```

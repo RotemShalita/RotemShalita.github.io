@@ -1,6 +1,6 @@
 # Rotem Shalita
 
-![This is me](\342\200\217\342\200\217my_photo)
+![This is me](/342/200/217/342/200/217my_photo)
 
 [Notes of the Advanced Python course](/notes)
 
