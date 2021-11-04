@@ -1,6 +1,6 @@
 # Rotem Shalita
 
-![This is me](my_photo.PNG)
+![This is me](images/my_photo.png)
 
 [Notes of the Advanced Python course](/notes)
 
